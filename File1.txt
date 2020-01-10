@@ -11,8 +11,9 @@ Feature 1 gf- logout
 
 file 
 
-bug1 - fix
+Bug1 -> fix
 
 
-Bug 2 - fixed
+Bug 2 -> fixed
 
+chnage added for rebase text
