@@ -10,3 +10,9 @@ Feature 1 gf- logout
 
 
 file 
+
+bug1 - fix
+
+
+Bug 2 - fixed
+
