@@ -1,7 +1,8 @@
 File to create for cr1 -
 
-File 2 is modified for feature. work is in progrss not complited
+File 1->is modified for feature. work is in progrss not complited
 
-change File update for push on remote
-added to someone on remote
-change 4 -to test the chnage from remote master to rebase
+change 2->  File update for push on remote
+             added to someone on remote
+
+chnage 3-> Text for rebase from locaol 
